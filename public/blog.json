@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/BG9n2j0/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co/XfPzGjs/handsome-young-cheerful-man-with-arms-crossed.jpg",
+        "title": "Lorem Ipsum Dolor Sit Amet",
+        "posted_date": "2024-03-10",
+        "reading_time": 10,
+        "hashtag": ["#Lorem", "#Ipsum", "#Dolor"]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/d4ZgQtM/flat-lay-desk-dark-concept-with-copy-space.jpg",
+        "author": "Jane Smith",
+        "author_img": "https://i.ibb.co/XfPzGjs/handsome-young-cheerful-man-with-arms-crossed.jpg",
+        "title": "Consectetur Adipiscing Elit",
+        "posted_date": "2024-03-09",
+        "reading_time": 8,
+        "hashtag": ["#Consectetur", "#Adipiscing", "#Elit"]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/d49rdL9/top-view-desk-dark-concept-with-copy-space.jpg",
+        "author": "Alice Johnson",
+        "author_img": "https://i.ibb.co/s9zYf20/artist-white.jpg",
+        "title": "Sed Do Eiusmod Tempor Incididunt",
+        "posted_date": "2024-03-08",
+        "reading_time": 12,
+        "hashtag": ["#Sed", "#Tempor", "#Incididunt"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/fkGpMwy/technology-communication-icons-symbols-concept.jpg",
+        "author": "Michael Brown",
+        "author_img": "https://i.ibb.co/16xK7TX/front-view-young-male-red-shirt-black-wall.jpg",
+        "title": "Nulla Facilisi",
+        "posted_date": "2024-03-07",
+        "reading_time": 15,
+        "hashtag": ["#Nulla", "#Facilisi"]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/sVXdFcD/surprised-young-caucasian-geometry-teacher-wearing-glasses-sitting-desk-with-school-supplies-classro.jpg",
+        "author": "Emily Davis",
+        "author_img": "https://i.ibb.co/4F9MFTt/close-up-portrait-young-man-isolated-black-wall-real-emotions-male-model-smiling-feeling-happy-facia.jpg",
+        "title": "Aenean Fermentum Dolor Ac Egestas",
+        "posted_date": "2024-03-06",
+        "reading_time": 7,
+        "hashtag": ["#Aenean", "#Fermentum", "#Dolor"]
+    }
+]
